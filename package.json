@@ -1,0 +1,12 @@
+{
+    "name": "flip-number",
+    "version": "0.0.1",
+    "description": "A React component, flip a number with animation",
+    "main": "index.js",
+    "author": "renshan <1005110700@qq.com>",
+    "license": "MIT",
+    "dependencies": {
+        "prop-types": "^15.6.0",
+        "react": "^16.0.0"
+    }
+}
